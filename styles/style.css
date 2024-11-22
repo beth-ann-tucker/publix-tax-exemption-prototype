@@ -1,11 +1,11 @@
 /*set background color */
 body {
-  background-color: #3e902d;
+  background-color: white;
 }
 
 /*placement, color, and font for title*/
 h1 {
-  color: black;
+  color: #3e902d;
   font-size: 100px;
   font-family: Stencil Std, fantasy;
   position: fixed;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: #3e902d;
   font-size: 100px;
   font-family: Stencil Std, fantasy;
   position: fixed;
