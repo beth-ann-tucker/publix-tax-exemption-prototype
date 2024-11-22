@@ -1,12 +1,12 @@
 /*set background color */
 body {
-  background-color: #AFE1AF;
+  background-color: #3e902d;
 }
 
-/*placement, color, and font for hello world*/
+/*placement, color, and font for title*/
 h1 {
-  color: #40826D;
-  font-size: 225px;
+  color: black;
+  font-size: 100px;
   font-family: Stencil Std, fantasy;
   position: fixed;
   bottom: 310px;
@@ -14,19 +14,12 @@ h1 {
 }
 
 h2 {
-  color: #40826D;
-  font-size: 225px;
+  color: black;
+  font-size: 100px;
   font-family: Stencil Std, fantasy;
   position: fixed;
   bottom: 110px;
   right: 75px;
-}
-
-/*additional nav-bar settings*/
-nav{
-  background-color: #40826D;
-  opacity: 0.5;
-  color: #40826D;
 }
 
 /*description font, size, and placement*/
@@ -38,7 +31,7 @@ p{
   left: 75px;
   text-align: center;
   font-family: Stencil Std;
-  color: #40826D;
+  color: white;
 }
 
 /*button settings*/
