@@ -1,0 +1,53 @@
+/*set background color */
+body {
+  background-color: #AFE1AF;
+}
+
+/*placement, color, and font for hello world*/
+h1 {
+  color: #40826D;
+  font-size: 225px;
+  font-family: Stencil Std, fantasy;
+  position: fixed;
+  bottom: 310px;
+  right: 75px;
+}
+
+h2 {
+  color: #40826D;
+  font-size: 225px;
+  font-family: Stencil Std, fantasy;
+  position: fixed;
+  bottom: 110px;
+  right: 75px;
+}
+
+/*additional nav-bar settings*/
+nav{
+  background-color: #40826D;
+  opacity: 0.5;
+  color: #40826D;
+}
+
+/*description font, size, and placement*/
+p{
+  width: 15%;
+  font-size: 22px;
+  position: fixed;
+  bottom: 210px;
+  left: 75px;
+  text-align: center;
+  font-family: Stencil Std;
+  color: #40826D;
+}
+
+/*button settings*/
+.btn{
+  background-color: #40826D;
+  color: #AFE1AF;
+  position: fixed;
+  bottom: 175px;
+  left: 145px;
+  width: 6%;
+  border-radius: 40px;
+}
